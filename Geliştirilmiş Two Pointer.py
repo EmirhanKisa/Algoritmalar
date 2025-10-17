@@ -1,7 +1,3 @@
-"""
-Bu çözüm yöntemi küçükten büyüğe sıralanmış listeler için hem hızlı hemde bellekte yer tutmaz.
-Ben uzun bir listeyi sıralmaya kalkarsam işlem maliyeti vardır ve uzun sürebilir.
-"""
 liste = [2, 7, 11, 15]
 hedef = 9
 
@@ -22,3 +18,4 @@ while p1 < p2:
     else: # toplam > hedef
 
         p2 = p2 - 1 # p2'yi sola kaydır
+
