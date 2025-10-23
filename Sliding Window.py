@@ -1,3 +1,4 @@
+# Burda dinamik olayan bir yapı ile kurdum. Sonrasında ise statik halini yaptım.
 liste = [2, 1, 5, 1, 3, 2]
 
 d = 0
@@ -16,5 +17,6 @@ while p3 < dur:
     p1 = p1 + 1
     p2 = p2 + 1
     p3 = (p3+ 1)
+
 
 print(d)
